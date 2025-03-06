@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# llama is a tool that allows you to run a model thorugh a docker container 
+# the model is llama3 and the docker container is ollama
+
+#docker pull ollama/ollama
+
+#Run llama3 model thorugh docker 
+docker exec -it ollama ollama run llama3
+

@@ -2,6 +2,7 @@
 
 # llama is a tool that allows you to run a model thorugh a docker container 
 # the model is llama3 and the docker container is ollama
+#for more: https://hub.docker.com/r/ollama/ollama
 
 #docker pull ollama/ollama
 
